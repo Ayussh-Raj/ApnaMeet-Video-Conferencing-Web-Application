@@ -33,15 +33,19 @@ ApnaMeet is a real-time video conferencing platform built with the **MERN stack*
 - **Database**: MongoDB
 - **Other**: REST APIs, WebSockets
 
-## 📸 Screenshots
-
-> *(Insert screenshots here if available)*
-
 ## 🧠 Learnings
 
 - Implemented real-time WebRTC connections and signaling logic.
 - Understood WebSocket (Socket.io) architecture for video and chat sync.
 - Integrated secure backend authentication and session storage.
 
-## 📁 Folder Structure
+```bash
+# Clone the repository
+git clone https://github.com/Ayussh-Raj/apna-meet.git
+cd apna-meet
+
+# Install dependencies for client and server
+cd client && npm install
+cd ../server && npm install
+
 
